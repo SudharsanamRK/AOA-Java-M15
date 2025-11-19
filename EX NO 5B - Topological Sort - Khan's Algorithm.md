@@ -115,7 +115,7 @@ public class prog {
 ```
 
 ## Output:
-<img width="778" height="526" alt="image" src="https://github.com/user-attachments/assets/e974c893-cc88-4e0e-934d-cb727552d82a" />
+<img width="717" height="570" alt="image" src="https://github.com/user-attachments/assets/035ac9bb-4215-4993-ae49-92b1b638bcce" />
 
 ## Result:
 The program successfully implemented and the expected output is verified.
